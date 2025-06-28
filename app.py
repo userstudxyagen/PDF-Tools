@@ -1,5 +1,5 @@
 import streamlit as st
-from utils.pdf_tools import merge_pdfs
+from pdf_tools import merge_pdfs
 import tempfile
 import base64
 import pdfplumber
