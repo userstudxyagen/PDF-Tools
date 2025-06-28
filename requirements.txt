@@ -1,5 +1,5 @@
 streamlit
-PyPDF2
-python-docx
 pdfplumber
+pymupdf  # für PDF-Merge (fitz)
+python-docx
 docx2pdf ; sys_platform == 'win32'
